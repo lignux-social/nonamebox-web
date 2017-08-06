@@ -1,0 +1,8 @@
+enabled: true
+footer_icons:
+  -
+    icon: fa-telegram
+    link: 'https://t.me/NoNameBox'
+  -
+    icon: fa-envelope
+    link: 'mailto:info@nonamebox.org'

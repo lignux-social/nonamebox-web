@@ -1,0 +1,11 @@
+email: amontes@nnbox.org
+fullname: 'Agustí Montes'
+title: Adminsitrador
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$u6J6HxQU0brFSs2L0Ican.GYB1Mn7QFR3XsQPaKF/0cKUcUZFj4Yi
