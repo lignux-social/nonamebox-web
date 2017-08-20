@@ -1,0 +1,5 @@
+user/accounts/* 
+cache/*
+.directory
+tmp/*
+logs/*
